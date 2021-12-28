@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T02:54:15.574Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.1.0" etag="56F2pPMnXLJg8fw0VGk1" type="github"><diagram id="iIs77U9tXb6Ler5Am5bI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-28T03:01:31.996Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="nfCI7Rmq0wUP9GmEKsvb" version="16.1.0" type="github">
+  <diagram id="iIs77U9tXb6Ler5Am5bI" name="Page-1">
+    <mxGraphModel dx="946" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t4T7Oo6XR3qxbg3fuGZV-1" value="RaftCore" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t4T7Oo6XR3qxbg3fuGZV-2" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;lucida console&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: 14.4px ; text-align: left ; background-color: rgb(243 , 244 , 244)&quot;&gt;ReplicationCore&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="190" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t4T7Oo6XR3qxbg3fuGZV-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="210" as="sourcePoint" />
+            <mxPoint x="390" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t4T7Oo6XR3qxbg3fuGZV-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="240" as="sourcePoint" />
+            <mxPoint x="300" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t4T7Oo6XR3qxbg3fuGZV-6" value="RaftEvent" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="170" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t4T7Oo6XR3qxbg3fuGZV-7" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;lucida console&amp;#34; , &amp;#34;consolas&amp;#34; , &amp;#34;courier&amp;#34; , monospace ; font-size: 14.4px ; text-align: left ; background-color: rgb(243 , 244 , 244)&quot;&gt;ReplicaEvent&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="270" width="120" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
